@@ -50,6 +50,8 @@ var ball = {
   speed: 250,
   height: 30,
   width: 30,
+	x: (canvas.width / 2) - 15,
+	y: (canvas.height / 2) - 15,
 	dx: 0,
 	dy: 0
 };
